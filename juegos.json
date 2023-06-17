@@ -1,0 +1,242 @@
+[
+    {
+        "nombre": "Super Mario Bros.",
+        "fecha_creacion": "1985-09-13",
+        "descripcion": "Super Mario Bros. es un icónico juego de plataformas en el que los jugadores controlan a Mario mientras atraviesa el Reino Champiñón para rescatar a la Princesa Peach de Bowser.",
+        "plataforma": "NES"
+    },
+    {
+        "nombre": "The Legend of Zelda",
+        "fecha_creacion": "1986-02-21",
+        "descripcion": "The Legend of Zelda es un juego de aventuras en el que los jugadores asumen el papel de Link, quien debe recorrer Hyrule para rescatar a la Princesa Zelda y derrotar al malvado Ganon.",
+        "plataforma": "NES"
+    },
+    {
+        "nombre": "Metroid",
+        "fecha_creacion": "1986-08-06",
+        "descripcion": "Metroid es un juego de acción y exploración en el que los jugadores controlan a Samus Aran, una cazarrecompensas espacial, mientras lucha contra alienígenas y busca mejoras para su traje.",
+        "plataforma": "NES"
+    },
+    {
+        "nombre": "Super Mario Bros. 3",
+        "fecha_creacion": "1988-10-23",
+        "descripcion": "Super Mario Bros. 3 es la tercera entrega de la serie y presenta nuevas habilidades para Mario, como volar y convertirse en diferentes formas para superar los desafíos del juego.",
+        "plataforma": "NES"
+    },
+    {
+        "nombre": "Mega Man 2",
+        "fecha_creacion": "1988-12-24",
+        "descripcion": "Mega Man 2 es un juego de plataformas y acción en el que los jugadores controlan a Mega Man mientras se enfrenta a ocho jefes robot y sus niveles temáticos antes de enfrentarse al Dr. Wily.",
+        "plataforma": "NES"
+    },
+    {
+        "nombre": "Castlevania",
+        "fecha_creacion": "1986-09-26",
+        "descripcion": "Castlevania es un juego de acción y plataformas en el que los jugadores asumen el papel de Simon Belmont, un cazador de vampiros, mientras lucha contra criaturas malignas y busca derrotar al Conde Drácula.",
+        "plataforma": "NES"
+    },
+    {
+        "nombre": "Final Fantasy",
+        "fecha_creacion": "1987-12-18",
+        "descripcion": "Final Fantasy es un juego de rol (RPG) en el que los jugadores controlan a un grupo de héroes mientras viajan por un mundo fantástico, luchan contra enemigos y completan misiones para derrotar al malvado Chaos.",
+        "plataforma": "NES"
+    },
+    {
+        "nombre": "Contra",
+        "fecha_creacion": "1987-02-20",
+        "descripcion": "Contra es un juego de acción y disparos en el que los jugadores controlan a dos soldados mientras luchan contra alienígenas y robots en una misión para salvar a la Tierra de la amenaza extraterrestre.",
+        "plataforma": "NES"
+    },
+    {
+        "nombre": "Punch-Out!!",
+        "fecha_creacion": "1987-02-03",
+        "descripcion": "Punch-Out!! es un juego de boxeo en el que los jugadores asumen el papel de Little Mac, un joven boxeador que debe enfrentarse a una serie de oponentes desafiantes en su camino hacia el campeonato mundial.",
+        "plataforma": "NES"
+    },
+    {
+        "nombre": "Kid Icarus",
+        "fecha_creacion": "1986-12-19",
+        "descripcion": "Kid Icarus es un juego de plataformas y acción en el que los jugadores controlan a Pit, un ángel guerrero, mientras se abre camino a través de diversos niveles y lucha contra enemigos mitológicos para rescatar a la diosa Palutena.",
+        "plataforma": "NES"
+    },
+    {
+        "nombre": "Tetris",
+        "fecha_creacion": "1989-06-14",
+        "descripcion": "Tetris es un popular juego de puzles en el que los jugadores deben encajar piezas de diferentes formas para formar líneas completas y eliminarlas antes de que el tablero se llene.",
+        "plataforma": "NES"
+    },
+    {
+        "nombre": "Zelda II: The Adventure of Link",
+        "fecha_creacion": "1987-01-14",
+        "descripcion": "Zelda II: The Adventure of Link es la secuela de The Legend of Zelda y presenta un enfoque más orientado a la acción y la exploración, con nuevos elementos de juego, como combate lateral y subir de nivel.",
+        "plataforma": "NES"
+    },
+    {
+        "nombre": "Super Mario Bros. 2",
+        "fecha_creacion": "1988-10-09",
+        "descripcion": "Super Mario Bros. 2 es una versión modificada de un juego japonés llamado Doki Doki Panic, en el que los jugadores eligen entre cuatro personajes diferentes para superar desafiantes niveles y derrotar al malvado Wart.",
+        "plataforma": "NES"
+    },
+    {
+        "nombre": "Double Dragon",
+        "fecha_creacion": "1987-07-20",
+        "descripcion": "Double Dragon es un juego de lucha en el que los jugadores asumen el papel de los hermanos Billy y Jimmy Lee mientras luchan contra pandilleros callejeros para rescatar a la novia de Billy, Marian.",
+        "plataforma": "NES"
+    },
+    {
+        "nombre": "Donkey Kong",
+        "fecha_creacion": "1981-07-09",
+        "descripcion": "Donkey Kong es un juego de plataformas en el que los jugadores controlan a Jumpman (más tarde conocido como Mario) mientras evita obstáculos y sube escaleras para rescatar a la princesa Pauline de Donkey Kong.",
+        "plataforma": "NES"
+    },
+    {
+        "nombre": "Dr. Mario",
+        "fecha_creacion": "1990-07-27",
+        "descripcion": "Dr. Mario es un juego de puzles en el que los jugadores controlan al Dr. Mario mientras intentan eliminar virus de diferentes colores combinando píldoras del mismo color en el tablero.",
+        "plataforma": "NES"
+    },
+    {
+        "nombre": "Excitebike",
+        "fecha_creacion": "1984-11-30",
+        "descripcion": "Excitebike es un juego de carreras de motocross en el que los jugadores compiten en pistas llenas de obstáculos y saltos, tratando de completar el circuito en el menor tiempo posible sin chocar.",
+        "plataforma": "NES"
+    },
+    {
+        "nombre": "Kirby's Adventure",
+        "fecha_creacion": "1993-03-23",
+        "descripcion": "Kirby's Adventure es un juego de plataformas en el que los jugadores controlan a Kirby, una pequeña criatura rosada, mientras lucha contra enemigos y utiliza habilidades especiales para avanzar en el juego y derrotar al malvado Rey Dedede.",
+        "plataforma": "NES"
+    },
+    {
+        "nombre": "Dragon Quest",
+        "fecha_creacion": "1986-05-27",
+        "descripcion": "El primer juego de la popular serie de juegos de rol (RPG) de Dragon Quest. Los jugadores asumen el papel de un héroe que debe derrotar al malvado Dragonlord y salvar el reino.",
+        "plataforma": "NES"
+    },
+    {
+        "nombre": "Mike Tyson's Punch-Out!!",
+        "fecha_creacion": "1987-11-18",
+        "descripcion": "Una versión especial de Punch-Out!! que presenta al famoso boxeador Mike Tyson como el último oponente desafiante en el juego.",
+        "plataforma": "NES"
+    },
+    {
+        "nombre": "Sonic the Hedgehog",
+        "fecha_creacion": "1991-06-23",
+        "descripcion": "Un juego de plataformas rápido y emocionante protagonizado por el famoso erizo azul Sonic.",
+        "plataforma": "SEGA"
+    },
+    {
+        "nombre": "Streets of Rage 2",
+        "fecha_creacion": "1992-12-20",
+        "descripcion": "Un clásico juego de lucha callejera en el que los jugadores deben enfrentarse a pandillas violentas para salvar la ciudad.",
+        "plataforma": "SEGA"
+    },
+    {
+        "nombre": "Golden Axe",
+        "fecha_creacion": "1989-05-22",
+        "descripcion": "Un juego de acción y fantasía en el que los jugadores luchan contra monstruos y enemigos con espadas y magia.",
+        "plataforma": "SEGA"
+    },
+    {
+        "nombre": "Mortal Kombat II",
+        "fecha_creacion": "1994-04-09",
+        "descripcion": "Un juego de lucha brutal con una amplia variedad de personajes y movimientos especiales sangrientos.",
+        "plataforma": "SEGA"
+    },
+    {
+        "nombre": "Shinobi III: Return of the Ninja Master",
+        "fecha_creacion": "1993-07-22",
+        "descripcion": "Un juego de acción ninja en el que los jugadores deben enfrentarse a enemigos mortales con habilidades acrobáticas y shurikens.",
+        "plataforma": "SEGA"
+    },
+    {
+        "nombre": "Altered Beast",
+        "fecha_creacion": "1988-11-29",
+        "descripcion": "Un juego de lucha y transformación en el que los jugadores se convierten en criaturas poderosas para derrotar a los enemigos.",
+        "plataforma": "SEGA"
+    },
+    {
+        "nombre": "Phantasy Star IV",
+        "fecha_creacion": "1993-12-17",
+        "descripcion": "Un juego de rol épico con una historia cautivadora y batallas estratégicas por turnos.",
+        "plataforma": "SEGA"
+    },
+    {
+        "nombre": "Comix Zone",
+        "fecha_creacion": "1995-08-01",
+        "descripcion": "Un juego de acción en el que los jugadores se adentran en un cómic para luchar contra enemigos y resolver acertijos.",
+        "plataforma": "SEGA"
+    },
+    {
+        "nombre": "Gunstar Heroes",
+        "fecha_creacion": "1993-09-09",
+        "descripcion": "Un emocionante juego de disparos con gráficos vibrantes y batallas contra jefes desafiantes.",
+        "plataforma": "SEGA"
+    },
+    {
+        "nombre": "Castlevania: Bloodlines",
+        "fecha_creacion": "1994-03-17",
+        "descripcion": "Un juego de acción y plataformas ambientado en el universo de Castlevania, lleno de enemigos y trampas mortales.",
+        "plataforma": "SEGA"
+    },
+    {
+        "nombre": "ToeJam & Earl",
+        "fecha_creacion": "1991-03-12",
+        "descripcion": "Un juego de aventuras y exploración en el que los jugadores asumen el papel de dos extraterrestres divertidos en busca de piezas para reparar su nave espacial.",
+        "plataforma": "SEGA"
+    },
+    {
+        "nombre": "Earthworm Jim",
+        "fecha_creacion": "1994-08-02",
+        "descripcion": "Un juego de plataformas cómico en el que los jugadores controlan a un gusano espacial con habilidades únicas.",
+        "plataforma": "SEGA"
+    },
+    {
+        "nombre": "The Revenge of Shinobi",
+        "fecha_creacion": "1989-12-02",
+        "descripcion": "Un juego de acción y sigilo en el que los jugadores deben luchar contra ninjas y jefes desafiantes para vengar la muerte de su maestro.",
+        "plataforma": "SEGA"
+    },
+    {
+        "nombre": "Road Rash",
+        "fecha_creacion": "1991-06-07",
+        "descripcion": "Un juego de carreras de motocicletas lleno de acción en el que los jugadores compiten y luchan contra otros motociclistas en la carretera.",
+        "plataforma": "SEGA"
+    },
+    {
+        "nombre": "Ecco the Dolphin",
+        "fecha_creacion": "1992-07-29",
+        "descripcion": "Un juego de aventuras y puzles en el que los jugadores controlan a un delfín en una misión para salvar a su especie.",
+        "plataforma": "SEGA"
+    },
+    {
+        "nombre": "Sonic the Hedgehog 2",
+        "fecha_creacion": "1992-11-21",
+        "descripcion": "La secuela del popular juego de Sonic, con nuevos niveles, enemigos y la introducción de Tails, el compañero volador de Sonic.",
+        "plataforma": "SEGA"
+    },
+    {
+        "nombre": "Vectorman",
+        "fecha_creacion": "1995-10-24",
+        "descripcion": "Un juego de acción y plataformas en el que los jugadores controlan a un robot capaz de transformarse en diferentes formas para combatir a los enemigos.",
+        "plataforma": "SEGA"
+    },
+    {
+        "nombre": "Eternal Champions",
+        "fecha_creacion": "1993-10-01",
+        "descripcion": "Un juego de lucha con una amplia selección de personajes de diferentes épocas y estilos de lucha.",
+        "plataforma": "SEGA"
+    },
+    {
+        "nombre": "Shining Force II",
+        "fecha_creacion": "1993-10-01",
+        "descripcion": "Un juego de rol táctico en el que los jugadores reclutan y controlan a un grupo de héroes para salvar el mundo.",
+        "plataforma": "SEGA"
+    },
+    {
+        "nombre": "Alien Soldier",
+        "fecha_creacion": "1995-02-24",
+        "descripcion": "Un juego de acción intensa en el que los jugadores controlan a un soldado alienígena con una amplia variedad de armas y habilidades.",
+        "plataforma": "SEGA"
+    }
+]
