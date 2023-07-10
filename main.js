@@ -1,4 +1,5 @@
 let plataformaActual = ""; 
+let contadorBusquedas = 0;
 
 const nombreArchivo = window.location.pathname.split("/").pop(); 
 if (nombreArchivo === "nes.html") {
@@ -15,7 +16,7 @@ function generarListaJuegos(juegos) {
 
     const juegosPlataforma = juegos.filter(
         (juego) => juego.plataforma === plataformaActual
-    ); 
+    );
 
     if (juegosPlataforma.length > 0) {
         juegosPlataforma.forEach((juego) => {
@@ -31,8 +32,11 @@ function generarListaJuegos(juegos) {
             lista.appendChild(item);
         });
     } else {
-        lista.innerHTML = `<p>No existen juegos de ${plataformaActual}.</p>`; 
+        lista.innerHTML = `<p>No existen juegos de ${plataformaActual}.</p>`;
     }
+
+   
+    buscador.value = "";
 }
 
 
@@ -48,23 +52,42 @@ function cargarJuegos() {
         .catch((error) => {
             console.log("Error al cargar los juegos:", error);
         });
+        cargarContadorBusquedas();
 }
 
 
 let juegosFiltrados = [];
 
 function filtrarJuegosPorNombre(nombre) {
+    contadorBusquedas++;
+    localStorage.setItem('contadorBusquedas', contadorBusquedas);
     juegosFiltrados = juegosNES.filter(juego =>
         juego.nombre.toLowerCase().includes(nombre.toLowerCase())
     );
 
     if (juegosFiltrados.length === 0) {
         const lista = document.getElementById("lista-juegos");
-        lista.innerHTML = "<p>No existen juegos con ese nombre.</p>";
+        lista.innerHTML = "<p></p>";
+        Swal.fire({
+            icon: 'error',
+            title: 'Oops...',
+            text: 'No existen juegos con ese nombre.',
+            
+        });
     } else {
         generarListaJuegos(juegosFiltrados);
     }
 }
+function cargarContadorBusquedas() {
+    const contador = localStorage.getItem('contadorBusquedas');
+    if (contador) {
+        contadorBusquedas = parseInt(contador);
+    }
+    
+    const contadorElement = document.getElementById('contador-busquedas');
+    contadorElement.textContent = `Búsquedas realizadas: ${contadorBusquedas}`;
+}
+
 
 const restablecerBtn = document.getElementById("restablecer-btn");
 restablecerBtn.addEventListener("click", () => {
